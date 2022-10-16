@@ -1,0 +1,42 @@
+.card-field{
+    display: flex;
+   margin-right: 100px;
+    margin-top: 30px;
+}
+
+.img-of-card{
+    width: 150px;
+    height: 150px;
+}
+
+.card-field-header{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #833AE0;
+}
+.card-field-description{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 125.5%;
+}
+.one-card{
+    width: 500px;
+    display: flex;
+    
+}
+.card-field-text{
+    margin-left: 30px;
+    margin-top: 5px;
+}
+.card-field-description{
+    margin-top: 7px;
+    width: 200px;
+}
+
+  

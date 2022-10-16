@@ -1,0 +1,47 @@
+.name-of-catalogs{
+
+left: 4.06%;
+right: 72.5%;
+top: 38.89%;
+bottom: 56.94%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 100%;
+
+
+display: inline-block;
+
+align-items: center;
+
+color: #000000;
+}
+.catalog-fields{
+    display: inline-block;
+    justify-content: space-between;
+    margin-right: 180px;
+    margin-top: 8vh;
+}
+.show-all{
+    display: flex;
+    margin-top: 2vh;
+}
+.show-all-text{
+    color: rgb(104, 104, 104);
+}
+.show-all-arrow{
+    width: 0;
+      height: 0;
+      border-top: 7px solid transparent;
+      border-bottom: 7px solid transparent;
+      border-left: 7px solid #c091ec;
+
+    margin-left: 0.5vw;
+}
+.img-of-catalogs{
+    width: 250px;
+    height: 250px;
+    margin-top: 3vh;
+}

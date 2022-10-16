@@ -1,0 +1,7 @@
+.return-to-homepage{
+    display: flex;
+    flex-direction: row;
+    
+    color: rgb(104, 104, 104);
+    /* text-decoration: underline; */
+}

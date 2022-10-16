@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body, button, input {
+    font-family: 'Roboto', 'Helvetica', sans-serif;
+    color: #000807;
+}
+.title-of-page{
+    position: absolute;
+    left: 3vw;
+    top: 3vw;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 50px;
+    line-height: 59px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+.homepage-field{
+    margin-left: 3.2vw;
+    margin-top: 100px;
+}

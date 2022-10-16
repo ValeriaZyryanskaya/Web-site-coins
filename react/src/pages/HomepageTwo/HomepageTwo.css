@@ -1,0 +1,67 @@
+.title-of-page {
+    position: absolute;
+    left: 3vw;
+    top: 3vw;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 50px;
+    line-height: 59px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+
+
+
+.filter-container{
+    margin-top: 4vh;
+}
+select {
+    border-width: 1px;
+    border-radius: 0%;
+    height: 5.4vh;
+    width: 34.4vw;
+    margin-top: 1vh;
+}
+
+.country-field-text-input .price-field-text-input{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 3vh;
+    margin-top: 15vh;
+}
+.issuing-country-fields{
+    display: flex;
+}
+.price-field-text-input{
+    margin-left: 2vw;
+}
+.input-price{
+    margin-left: 2vw;
+    width: 150px;
+}
+
+.price-field-from-to{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 109%;
+    margin-left: 2vw;
+    margin-top: 5vh;
+}
+.issuing-country-fields {
+    margin-top: 5vh;
+}
+.input-price{
+    margin-top: 1vh;
+}
+form.form-fields-catalogs {
+    padding-left: 31px;
+}
+

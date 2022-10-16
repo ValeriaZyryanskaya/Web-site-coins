@@ -1,0 +1,18 @@
+.card{
+    display: flex;
+    flex-wrap: wrap;
+}
+.selectedPage{
+    font-weight: 600;
+}
+.nothingFound{
+    margin-top: 50px;
+    /* padding: 10px; */
+    border-radius: 3px;
+    width: 34.4vw;;
+    height: 5.4vh;
+    color: white;
+    background-color: #c091ec;
+    text-align: center;
+    line-height: 40px;
+}
